@@ -4,8 +4,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Student-B.Tech%20CSE-8B5CF6?style=for-the-badge" alt="B.Tech CSE">
-
 <img src="https://img.shields.io/badge/Focus-Java%20%26%20DSA-06B6D4?style=for-the-badge" alt="Java and DSA">
 
 </div>
@@ -85,6 +83,9 @@ Currently, I'm focusing on **Java, Data Structures & Algorithms, and software de
 </a>
 
 </div>
+
+<br>
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ZiyaanMubasshir&style=for-the-badge&color=8B5CF6" alt="Profile Views">
